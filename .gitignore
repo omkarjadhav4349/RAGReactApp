@@ -1,0 +1,23 @@
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Dependencies
+node_modules
+Server/node_modules
+client/node_modules
+
+# Build outputs
+dist
+client/dist
+Server/dist
+
+# Uploaded files
+Server/uploads
+Server/src/upload
+
+# Logs and local files
+*.log
+.DS_Store
